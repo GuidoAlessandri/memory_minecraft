@@ -5,5 +5,7 @@ In this repo [Annasus-96](https://github.com/Annasus-96) and I used kubowania's 
 
 Thank you again [kubowania](https://github.com/kubowania) for getting us started!
 
+Enjoy the game at  https://guidoalessandri.github.io/memory_minecraft/!
+
 <img width="865" alt="screenshoot_memory" src="https://user-images.githubusercontent.com/103426566/187026182-479bbd92-ec6f-44fb-81c6-8d476a095578.png">
 
